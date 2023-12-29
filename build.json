@@ -1,0 +1,11 @@
+{
+    "sfwbuild_version":"0.1",
+    "executable_name":"ublast",
+    "sources":[
+        "main.swift",
+        "Controller.swift",
+        "application.rc"
+    ],
+    "subsystem":"windows",
+    "strip":true
+}
